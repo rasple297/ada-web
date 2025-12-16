@@ -1,0 +1,36 @@
+
+{background:color: blanchedalmond;}
+h1{
+	color:pink;
+	font-size: 45px;
+	font-weight: bold;
+	font-family:georgia;
+	text-align: center;
+}
+h2{
+	color:mediumpurple;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: papyrus;
+	text-align: center;
+}
+/*background:rgba(220,205,38,0.2)*/
+h3{
+	color:bisque;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: papyrus;
+	text-align: left;
+
+}
+
+p{
+	color:mediumorchid;
+	font-size: 20px;
+	font-weight: normal;
+	font-family:papyrus;
+	text-align: left;
+}
+img {
+size:inherit}
+
